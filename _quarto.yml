@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lisa's Advanced Github Notes"
+
+format:
+  html:
+    theme: slate
